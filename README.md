@@ -1,0 +1,2 @@
+# mynewproject
+another pratice
